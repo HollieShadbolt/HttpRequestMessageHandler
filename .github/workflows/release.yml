@@ -28,4 +28,4 @@ jobs:
     - name: Pack
       run: dotnet pack --configuration Release /p:Version=${VERSION} --no-build --output .
     - name: Push
-      run: dotnet nuget push ./HttpRequestMessageHandler/out/*.nupkg --skip-duplicate --no-symbols true
+      run: dotnet nuget push NuGet.Workflow.${VERSION}.nupkg --skip-duplicate --no-symbols true
