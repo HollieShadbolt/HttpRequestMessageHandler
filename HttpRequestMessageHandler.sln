@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpRequestMessageHandler", "HttpRequestMessageHandler\HttpRequestMessageHandler.csproj", "{6C1B55EC-0E0D-4C5E-A414-B7BA8172291A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpRequestMessageHandlerTests", "HttpRequestMessageHandlerTests\HttpRequestMessageHandlerTests.csproj", "{EA900155-2054-4AD2-8EBE-63AEF1CF1D0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C1B55EC-0E0D-4C5E-A414-B7BA8172291A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C1B55EC-0E0D-4C5E-A414-B7BA8172291A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C1B55EC-0E0D-4C5E-A414-B7BA8172291A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C1B55EC-0E0D-4C5E-A414-B7BA8172291A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA900155-2054-4AD2-8EBE-63AEF1CF1D0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA900155-2054-4AD2-8EBE-63AEF1CF1D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA900155-2054-4AD2-8EBE-63AEF1CF1D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA900155-2054-4AD2-8EBE-63AEF1CF1D0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
