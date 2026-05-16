@@ -1,4 +1,4 @@
-A class library for `HttpRequestMessage` handling.
+A .NET class library for `HttpRequestMessage` handling.
 
 # Usage Examples
 - [Discord](https://github.com/HollieShadbolt/Discord)
